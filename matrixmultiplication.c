@@ -1,5 +1,5 @@
 #include<stdio.h>
-#define MAX 50
+#define MAX 40
 
 int main(){
     int arows,acolumns,brows,bcolumns;
